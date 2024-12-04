@@ -1,5 +1,6 @@
 # Generated data files
 data/*.json
+data/checkpoints/*.json
 data/results.json
 data/openai_results.json
 
